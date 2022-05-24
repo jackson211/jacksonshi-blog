@@ -187,7 +187,7 @@ impl Solution {
 
 # Subsets II
 
-**Link: https://leetcode.com/problems/subsets/**
+**Link: https://leetcode.com/problems/subsets-ii/**
 
 ## Problem
 
