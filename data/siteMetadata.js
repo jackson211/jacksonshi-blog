@@ -2,7 +2,7 @@ const siteMetadata = {
   title: `Jackson Shi's Blog`,
   author: 'Jackson Shi',
   headerTitle: `Jackson Shi's Blog`,
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'A blog about tech, life, and everything in between.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://jacksonshi.vercel.app',
