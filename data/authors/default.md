@@ -1,7 +1,7 @@
 ---
 name: Jackson Shi
 avatar: /static/images/avatar.png
-occupation: Developer
+occupation: Day Dreamer
 company:
 email: jackson21182@gmail.com
 twitter: https://twitter.com/jacksonshi_
