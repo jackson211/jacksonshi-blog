@@ -1,7 +1,7 @@
 ---
 title: Leetcode recursion and backtracking
 date: '2022-05-24'
-tags: ['leetcode', 'rust', 'linkedlist']
+tags: ['leetcode', 'rust', 'dfs', 'backtracking']
 draft: false
 summary: 'A collections of leetcode problems on recursion and backtracking'
 ---
