@@ -71,7 +71,7 @@ impl Solution {
 }
 ```
 
-Another approach is to store all the val in the Node from the list, then build tree from heap's `pop`.
+Another approach is to store all the `val` in the Node from the list, then build tree from heap's `pop`.
 
 Binary Heap:
 
@@ -97,4 +97,4 @@ impl Solution {
 }
 ```
 
-Personally I think the Binary Heap solution is more clear and efficient.
+Personally I think the Binary Heap solution is more clear and more efficient.
