@@ -10,9 +10,9 @@ summary: 'Solving leetcode problem 23: Merge k Sorted Lists'
 
 # Problem
 
-You are given an array of `k` linked-lists `lists`, each linked-list is sorted in ascending order.
+You are given an array of `k` linked-lists `lists, each linked list is sorted in ascending order.
 
-Merge all the linked-lists into one sorted linked-list and return it.
+Merge all the linked lists into one sorted linked list and return it.
 
 ## Example:
 
@@ -41,7 +41,7 @@ Output: []
 
 ## Solution
 
-The intuitive approach is to turning the problem into merge two lists, then append to a finial result list.
+The intuitive approach is to turn the problem into merge two lists, then append to a final result list.
 
 Merge two lists:
 
@@ -71,7 +71,7 @@ impl Solution {
 }
 ```
 
-Another approach is to store all the `val` in the Node from the list, then build tree from heap's `pop`.
+Another approach is to store all the `val` in the Node from the list, then build a tree from the heap's `pop`.
 
 Binary Heap:
 
@@ -97,4 +97,4 @@ impl Solution {
 }
 ```
 
-Personally I think the Binary Heap solution is more clear and more efficient.
+Personally, I think the Binary Heap solution is more clear and more efficient.
