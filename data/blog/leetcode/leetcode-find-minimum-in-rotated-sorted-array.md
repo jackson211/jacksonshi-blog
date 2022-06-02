@@ -41,8 +41,6 @@ We can solve the problem with binary search.
 - Notice that we are using `l < r` in the while loop, it will stop when `l == r`.
 - We can return `nums[l]` at this point.
 
-Binary Search
-
 ```rust
 impl Solution {
     pub fn find_min(nums: Vec<i32>) -> i32 {
